@@ -25,7 +25,7 @@ const CourseFeatures = () => {
       description: "A gestão do tempo é sua. Você terá de 8 a 12 meses para concluir o curso"
     },
     {
-      icon: <img src="/icons/methodology.svg" alt="Metodologia ativa" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
+      icon: <img src="/lovable-uploads/02575102-a1f7-405b-961c-7edb63f8a67d.png" alt="Metodologia ativa" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
       title: "Metodologia ativa, sem TCC",
       description: "Disciplinas com trilhas de aprendizagem interativas e suporte especializado durante seus estudos. Não temos TCC!"
     },
