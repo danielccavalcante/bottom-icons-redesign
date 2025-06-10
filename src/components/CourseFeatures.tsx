@@ -25,7 +25,7 @@ const CourseFeatures = () => {
       description: "A gestão do tempo é sua. Você terá de 8 a 12 meses para concluir o curso"
     },
     {
-      icon: <img src="/icons/book.svg" alt="Metodologia ativa" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
+      icon: <img src="/icons/methodology.svg" alt="Metodologia ativa" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
       title: "Metodologia ativa, sem TCC",
       description: "Disciplinas com trilhas de aprendizagem interativas e suporte especializado durante seus estudos. Não temos TCC!"
     },
@@ -35,7 +35,7 @@ const CourseFeatures = () => {
       description: "Receberá um certificado de atualização por disciplina concluída para potencializar o seu perfil."
     },
     {
-      icon: <img src="/icons/book.svg" alt="Material didático" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
+      icon: <img src="/icons/materials.svg" alt="Material didático" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
       title: "Material didático",
       description: "A gestão do tempo é sua. Você terá de 8 a 12 meses para concluir o curso."
     },
@@ -55,7 +55,7 @@ const CourseFeatures = () => {
       description: "Aulas superdinâmicas com videoaulas, mapas mentais e muito mais."
     },
     {
-      icon: <img src="/icons/certificate.svg" alt="Certificado de Conclusão" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
+      icon: <img src="/icons/diploma.svg" alt="Certificado de Conclusão" className="w-8 h-8" style={{ filter: 'invert(0.5)' }} />,
       title: "Certificado de Conclusão",
       description: "Receberá o certificado da pós-graduação em até 40 dias"
     },
